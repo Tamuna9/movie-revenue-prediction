@@ -44,6 +44,13 @@ movie-success-predictor
 ├── data
 │ └── tmdb_5000_movies.csv
 │
+├── images
+│ ├── revenue_distribution.png
+│ ├── budget_vs_revenue.png
+│ ├── correlation_heatmap.png
+│ ├── budget_distribution.png
+│ └── rating_vs_revenue.png
+│
 ├── models
 │ └── movie_model.pkl
 │
